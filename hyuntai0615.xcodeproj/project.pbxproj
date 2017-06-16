@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		E1B291071EF2177C00A0C264 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1B291061EF2177C00A0C264 /* main.swift */; };
+		E1B2910E1EF2184E00A0C264 /* myclass.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1B2910D1EF2184E00A0C264 /* myclass.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +26,7 @@
 /* Begin PBXFileReference section */
 		E1B291031EF2177C00A0C264 /* hyuntai0615 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = hyuntai0615; sourceTree = BUILT_PRODUCTS_DIR; };
 		E1B291061EF2177C00A0C264 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		E1B2910D1EF2184E00A0C264 /* myclass.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = myclass.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			isa = PBXGroup;
 			children = (
 				E1B291061EF2177C00A0C264 /* main.swift */,
+				E1B2910D1EF2184E00A0C264 /* myclass.swift */,
 			);
 			path = hyuntai0615;
 			sourceTree = "<group>";
@@ -121,6 +124,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E1B2910E1EF2184E00A0C264 /* myclass.swift in Sources */,
 				E1B291071EF2177C00A0C264 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -255,6 +259,7 @@
 				E1B2910C1EF2177D00A0C264 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

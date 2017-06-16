@@ -8,5 +8,11 @@
 
 import Foundation
 
-print("Hello, World!")
+//print("Hello, World!")
+//var names = ["Lego", "Swift", "Hello", "World"]
+//for value in names[2...] {
+//    print(value)
+//}
+myclass()
+//myExercise()
 
